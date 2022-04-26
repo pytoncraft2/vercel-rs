@@ -26,6 +26,7 @@ const Home: NextPage = () => {
   </header>
   <div className="page-body">
     <h1 id="708b5a37-0704-480b-90cb-a2be15f2108c">
+    <a href="https://resident-streamer.servegame.com/">Resident Streamer</a>
       <span style={{ borderBottom: "0.05em solid" }}>
         <strong>Le projet</strong>
       </span>
