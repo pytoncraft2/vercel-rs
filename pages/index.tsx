@@ -21,6 +21,7 @@ const Home: NextPage = () => {
       <article id="ad128173-7b50-4623-b037-0db325e80c94" className="page sans">
   <header>
     <h1 className="page-title">Resident Streamer</h1>
+    <h2 className="page-title">Jeu multijoueur en ligne</h2>
     <h3>Cahier des charges</h3>
   </header>
   <div className="page-body">
