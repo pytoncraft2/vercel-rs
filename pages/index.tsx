@@ -59,16 +59,17 @@ const Home: NextPage = () => {
             </p>
           </a>
         </div>
-
         <h4>Le temps sera arrêté lorsque vous aurez vaincu tous les boss des pièces.Ce temps sera le score de l’équipe qui sera ajouté à la liste du classement avec le nom de l’équipe choisi et ses membres. Pour être le premier dans le classement il faut avoir le temps le plus petit.</h4>
-        <h5>Suivez nous</h5>
-        <p>
-        <a
-        href="https://twitter.com/buibui5757">Tweeter</a>-
-        <a
-        href="https://www.instagram.com/residentstreamer">Instagram</a>-
-        <a
-        href="https://www.facebook.com/people/Resident-Streamer/100080096264302">Facebook</a></p>
+          <div className={styles.card}>
+              <h6>Suivez nous sur les réseaux</h6>
+              <p>
+              <a
+              href="https://twitter.com/buibui5757">Tweeter</a>-
+              <a
+              href="https://www.instagram.com/residentstreamer">Instagram</a>-
+              <a
+              href="https://www.facebook.com/people/Resident-Streamer/100080096264302">Facebook</a></p>
+          </div>
       </main>
 
       <footer className={styles.footer}>
