@@ -1,5 +1,5 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
+import type { NextPage } from 'next';
+import Head from 'next/head';
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
@@ -78,7 +78,7 @@ const Home: NextPage = () => {
     </ul>
     <ul id="d2aab4ea-402e-49a4-ac5c-43465de14c9b" className="bulleted-list">
       <li style={{ listStyleType: "disc" }}>
-        argent, non en vrai, un chat actif, m'amuser.
+        argent, non en vrai, un chat actif, m&apos;amuser.
       </li>
     </ul>
     <ul id="8050d39c-a961-4b36-87f8-227db08e78f1" className="bulleted-list">
@@ -86,9 +86,9 @@ const Home: NextPage = () => {
     </ul>
     <ul id="2f8c2f45-21b4-4209-9655-2661b30575d6" className="bulleted-list">
       <li style={{ listStyleType: "disc" }}>
-        je n'en ai pas forcément car je suis juste viewer et pas forcément
+        je n&apos;en ai pas forcément car je suis juste viewer et pas forcément
         active dans le chat mais je préfère être face à un stream qui a un son
-        de qualité et un stream de qualité (le partage d'écran)
+        de qualité et un stream de qualité (le partage d&apos;écran)
       </li>
     </ul>
     <p id="139b4b9b-c761-43f7-875f-a5ec2e8daf39" className=""></p>
@@ -97,7 +97,7 @@ const Home: NextPage = () => {
     </p>
     <ul id="f979b1e5-e24d-44a2-9282-031ce3b9c024" className="bulleted-list">
       <li style={{ listStyleType: "disc" }}>
-        Oui, même si c'est compliqué avec les gros streamers.
+        Oui, même si c&apos;est compliqué avec les gros streamers.
       </li>
     </ul>
     <ul id="123dab0f-7aab-4123-b493-5284a57fdad2" className="bulleted-list">
@@ -111,14 +111,14 @@ const Home: NextPage = () => {
     </ul>
     <ul id="9b8ac02d-03fa-40b7-9b2b-dbe7608b3675" className="bulleted-list">
       <li style={{ listStyleType: "disc" }}>
-        Je suppose que oui car c'est toujours plus agréable d'avoir un streamer
+        Je suppose que oui car c&apos;est toujours plus agréable d&apos;avoir un streamer
         qui interagit avec sa communauté et ses viewers.
       </li>
     </ul>
     <p id="6717c532-3844-4eef-9e64-4f386127cc21" className=""></p>
     <p id="2e32faae-5e0c-4d03-a89b-600486d3ddea" className="block-color-blue">
       -si oui un besoin de rapprocher les viewers et streamers. La solution que
-      nous allons mettre en place. c'est la création d'un jeu speedrun online
+      nous allons mettre en place. c&apos;est la création d&apos;un jeu speedrun online
       multijoueur(personnage streamer) qui a pour but de finir le jeu le plus
       rapidement possible.A la fin de la partie le score sera dans le
       classement. Ainsi on peut rejouer pour dépasser ce score et même faire des
@@ -231,9 +231,9 @@ const Home: NextPage = () => {
       <em>
         <strong>) </strong>
       </em>
-      le but est d'atteindre la fin du jeu le plus rapidement possible. Les
-      stratégies peuvent inclure d'ignorer les éléments optionnels du jeu, voire
-      d'utiliser des erreurs dans la programmation du jeu (<em>bugs</em> ou{" "}
+      le but est d&apos;atteindre la fin du jeu le plus rapidement possible. Les
+      stratégies peuvent inclure d&apos;ignorer les éléments optionnels du jeu, voire
+      d&apos;utiliser des erreurs dans la programmation du jeu (<em>bugs</em> ou{" "}
       <em>glitches</em>) pour contourner des passages que les développeurs
       avaient prévu comme obligatoires (<em>sequence breaking</em>).) en
       multijoueur 2D en ligne avec le Framework Javascript Phaser 3 disponible
@@ -314,7 +314,7 @@ const Home: NextPage = () => {
       className="block-color-teal bulleted-list"
     >
       <li style={{ listStyleType: "disc" }}>
-        L'attaque primaire : Straight lead qui consiste à lancer le poing vers
+        L&apos;attaque primaire : Straight lead qui consiste à lancer le poing vers
         l’avant tout en avançant.
       </li>
     </ul>
@@ -1359,7 +1359,7 @@ const Home: NextPage = () => {
     </figure>
     <p id="9a2d6720-ee5f-4cd7-9b8d-390548977898" className=""></p>
     <p id="98128061-5e71-4099-966d-b3f4c865336d" className="">
-      <strong>Github </strong>: est un service web d'hébergement et de gestion
+      <strong>Github </strong>: est un service web d&apos;hébergement et de gestion
       de développement de logiciels
     </p>
     <p id="b711d02c-31ae-49aa-b55b-aa3fd9f8048c" className=""></p>
@@ -1374,8 +1374,8 @@ const Home: NextPage = () => {
     <p id="ab77e9d1-e079-498c-a444-428162c6e0f8" className=""></p>
     <p id="b5e2a5f4-657b-42ad-97b1-0d8df2ae9b4d" className=""></p>
     <p id="a352adc5-6896-4892-a59b-84fe6d8d025b" className="block-color-brown">
-      <strong>Gimp </strong>: est un logiciel libre d'édition et de création
-      d'image
+      <strong>Gimp </strong>: est un logiciel libre d&apos;édition et de création
+      d&apos;image
     </p>
     <p id="5a3ccb94-b3c3-4ce6-bd66-40d673e32ae2" className="">
       .
