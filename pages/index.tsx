@@ -1817,7 +1817,7 @@ const Home: NextPage = () => {
       id="95f13b2d-6faa-4678-bba3-975922b14282"
       className="collection-content"
     >
-      <h4/>
+      <h4>Disponibilité</h4>
       <table className="collection-content">
         <thead>
           <tr>
@@ -1995,7 +1995,7 @@ const Home: NextPage = () => {
       id="662503b8-b7be-4bb8-b74f-1c052141b5e2"
       className="collection-content"
     >
-      <h4/>
+      <h4>Repartition</h4>
       <table className="collection-content">
         <thead>
           <tr>
@@ -2138,7 +2138,7 @@ const Home: NextPage = () => {
       id="6f8d527d-2020-4827-9515-81535368045b"
       className="collection-content"
     >
-      <h4/>
+      <h4>Priorisation</h4>
       <table className="collection-content">
         <thead>
           <tr>
@@ -2587,7 +2587,7 @@ const Home: NextPage = () => {
       id="216762b1-6df3-4ef2-b4b5-5ac001e46263"
       className="collection-content"
     >
-      <h4/>
+      <h4>Chronologie</h4>
       <table className="collection-content">
         <thead>
           <tr>
