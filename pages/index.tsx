@@ -20,7 +20,8 @@ const Home: NextPage = () => {
 
       <article id="ad128173-7b50-4623-b037-0db325e80c94" className="page sans">
   <header>
-    <h1 className="page-title">Cahier des charges</h1>
+    <h1 className="page-title">Resident Streamer</h1>
+    <h3>Cahier des charges</h3>
   </header>
   <div className="page-body">
     <h1 id="708b5a37-0704-480b-90cb-a2be15f2108c" className="">
