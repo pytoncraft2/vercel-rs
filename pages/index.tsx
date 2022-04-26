@@ -25,12 +25,12 @@ const Home: NextPage = () => {
     <h3>Cahier des charges</h3>
   </header>
   <div className="page-body">
-    <h1 id="708b5a37-0704-480b-90cb-a2be15f2108c" className="">
+    <h1 id="708b5a37-0704-480b-90cb-a2be15f2108c">
       <span style={{ borderBottom: "0.05em solid" }}>
         <strong>Le projet</strong>
       </span>
     </h1>
-    <h2 id="85e3dd2c-22ae-4258-bcc2-3eb2ed417729" className="">
+    <h2 id="85e3dd2c-22ae-4258-bcc2-3eb2ed417729">
       Présentation du client
     </h2>
     <h1
@@ -39,38 +39,38 @@ const Home: NextPage = () => {
     >
       Le client
     </h1>
-    <p id="f9c6dc15-a596-4745-9425-fa9a980c2f14" className="">
+    <p id="f9c6dc15-a596-4745-9425-fa9a980c2f14">
       Un publique de plus de<strong> 12 ans</strong>,
     </p>
-    <p id="9aaffaa4-bb16-4782-a8d0-d86b08fdafec" className="">
+    <p id="9aaffaa4-bb16-4782-a8d0-d86b08fdafec">
       Les clients sont des streamers, viewers, joueurs.
     </p>
-    <p id="7be85350-8849-444d-846f-3ce957621a4d" className="">
+    <p id="7be85350-8849-444d-846f-3ce957621a4d">
       Ils ont un ordinateur et ils vont sur des plateformes de diffusion de jeu
       en direct.
     </p>
-    <p id="d34b4c72-50b2-47ce-a768-708497705c35" className="">
+    <p id="d34b4c72-50b2-47ce-a768-708497705c35">
       Pour les personnes qui font des jeux communautaires en live
     </p>
-    <h2 id="c0f9a775-8ea3-4748-9d65-e09ccf3a3ca4" className="">
+    <h2 id="c0f9a775-8ea3-4748-9d65-e09ccf3a3ca4">
       Présentation du besoin
     </h2>
-    <p id="d149c294-eec1-46cb-9701-c0cc91958848" className=""></p>
-    <p id="762ac26c-24e5-4efe-a782-37b8d6bc2f2d" className="">
+    <p id="d149c294-eec1-46cb-9701-c0cc91958848"></p>
+    <p id="762ac26c-24e5-4efe-a782-37b8d6bc2f2d">
       Divertir les joueurs et permettre aux streamers de jouer avec ces viewers
       par l’intermédiaire du jeu
     </p>
-    <p id="b6869d1a-c88b-4bb5-8b69-f95a9e03cf71" className="">
+    <p id="b6869d1a-c88b-4bb5-8b69-f95a9e03cf71">
       Défie entre streamers et viewers
     </p>
-    <p id="82615c00-e841-40aa-91b0-5aa12260aa51" className=""></p>
+    <p id="82615c00-e841-40aa-91b0-5aa12260aa51"></p>
     <h3
       id="bb7b412f-1b9f-42a6-b574-496f85b5eda3"
       className="block-color-orange_background"
     >
       Réponse du formulaire posé aux streameurs/viewers
     </h3>
-    <p id="744a858b-e01b-4cfa-a72f-47c23058ca82" className=""></p>
+    <p id="744a858b-e01b-4cfa-a72f-47c23058ca82"></p>
     <p id="b2aa3518-c7da-4af8-abb7-2bc6b9715c1d" className="block-color-blue">
       -Quels sont tes besoins sur twitch ?( questions à poser aux streamers et
       viewers) ?
@@ -93,7 +93,7 @@ const Home: NextPage = () => {
         de qualité et un stream de qualité (le partage d&apos;écran)
       </li>
     </ul>
-    <p id="139b4b9b-c761-43f7-875f-a5ec2e8daf39" className=""></p>
+    <p id="139b4b9b-c761-43f7-875f-a5ec2e8daf39"></p>
     <p id="623154d0-7b58-432c-a16b-be8d3282289c" className="block-color-blue">
       -Est-ce que c’est un besoin de rapprocher les viewers et streamers ?
     </p>
@@ -117,7 +117,7 @@ const Home: NextPage = () => {
         qui interagit avec sa communauté et ses viewers.
       </li>
     </ul>
-    <p id="6717c532-3844-4eef-9e64-4f386127cc21" className=""></p>
+    <p id="6717c532-3844-4eef-9e64-4f386127cc21"></p>
     <p id="2e32faae-5e0c-4d03-a89b-600486d3ddea" className="block-color-blue">
       -si oui un besoin de rapprocher les viewers et streamers. La solution que
       nous allons mettre en place. c&apos;est la création d&apos;un jeu speedrun online
@@ -140,34 +140,34 @@ const Home: NextPage = () => {
         Oui ça peut être très intéressant
       </li>
     </ul>
-    <p id="1e2f2f52-c4f9-440f-8f58-b8ebf0ddf435" className=""></p>
-    <p id="066499e5-3ba7-49ca-be97-521550334a3b" className=""></p>
-    <p id="37239911-0dad-405e-b8c9-3a8b7a6f77bf" className=""></p>
-    <p id="adfff1bc-b36c-43d7-999b-b9d37cf66c4b" className="">
+    <p id="1e2f2f52-c4f9-440f-8f58-b8ebf0ddf435"></p>
+    <p id="066499e5-3ba7-49ca-be97-521550334a3b"></p>
+    <p id="37239911-0dad-405e-b8c9-3a8b7a6f77bf"></p>
+    <p id="adfff1bc-b36c-43d7-999b-b9d37cf66c4b">
       Koripeluche (streameuse)
     </p>
-    <p id="59adf8a2-d993-4768-bee5-e2c82ae3e81f" className="">
+    <p id="59adf8a2-d993-4768-bee5-e2c82ae3e81f">
       Pour les personnes qui font des jeux communautaires en live ça peut être
       cool oui
     </p>
-    <h1 id="44ff19bb-acef-4c40-80a7-4b0c30caff2b" className="">
+    <h1 id="44ff19bb-acef-4c40-80a7-4b0c30caff2b">
       Description rapide du projet
     </h1>
-    <p id="ea8e5284-d683-47cc-a26c-d822bd6b7d9a" className=""></p>
-    <p id="b0c08b71-fa72-4cd4-b258-9dc143d2d798" className="">
+    <p id="ea8e5284-d683-47cc-a26c-d822bd6b7d9a"></p>
+    <p id="b0c08b71-fa72-4cd4-b258-9dc143d2d798">
       Le projet est une réalisation d’un jeu vidéo de type speed run en
       multijoueur 2D en ligne avec le Framework Javascript Phaser 3,
     </p>
-    <p id="420b850e-0b84-474a-94c3-8e0a5febaf6b" className="">
+    <p id="420b850e-0b84-474a-94c3-8e0a5febaf6b">
       La scène se passe dans une maison composée de plusieurs pièces.
     </p>
-    <p id="0e8bbf88-e1ac-4cb3-955b-68a1c7506771" className="">
+    <p id="0e8bbf88-e1ac-4cb3-955b-68a1c7506771">
       A travers cette maison votre équipe composée de 2 à 4 personnes a pour
       mission de supprimer les boss dans chaque pièce le plus rapidement
       possible.
     </p>
-    <p id="5c266548-c2f8-4e76-a8d5-68bd555f46ca" className=""></p>
-    <p id="c3c2633c-b528-4638-9ed3-a3973d9771f8" className="">
+    <p id="5c266548-c2f8-4e76-a8d5-68bd555f46ca"></p>
+    <p id="c3c2633c-b528-4638-9ed3-a3973d9771f8">
       Vous pouvez incarner 4 personnages streamers :
     </p>
     <ul
@@ -203,20 +203,20 @@ const Home: NextPage = () => {
         Osmosiscoop : personnage qui consiste à soigner ses alliés
       </li>
     </ul>
-    <p id="1da0a5e0-c638-40fa-9f54-c7cde82d883c" className=""></p>
-    <p id="013c3a71-7871-4c39-8a47-04f912d208a1" className=""></p>
-    <p id="f8bdf3d1-087b-4f3f-b843-71475e6daf3b" className="">
+    <p id="1da0a5e0-c638-40fa-9f54-c7cde82d883c"></p>
+    <p id="013c3a71-7871-4c39-8a47-04f912d208a1"></p>
+    <p id="f8bdf3d1-087b-4f3f-b843-71475e6daf3b">
       Le temps sera arrêté lorsque vous aurez vaincu tous les boss des pièces.
       Ce temps sera le score de l’équipe qui sera ajouté à la liste du
       classement avec le nom de l’équipe choisi et ses membres. Pour être le
       premier dans le classement il faut avoir le temps le plus petit.
     </p>
-    <p id="82a54c2c-68d0-41c7-b7bc-1bab18c9ca4b" className=""></p>
-    <h1 id="a861fed4-3ced-42ea-8e4a-2e026fd36a08" className="">
+    <p id="82a54c2c-68d0-41c7-b7bc-1bab18c9ca4b"></p>
+    <h1 id="a861fed4-3ced-42ea-8e4a-2e026fd36a08">
       Description générale du projet
     </h1>
-    <p id="a3ef8be3-1480-400d-b030-ea5e81169e69" className=""></p>
-    <p id="ee90cf2b-a380-4167-9154-352fbf07051a" className="">
+    <p id="a3ef8be3-1480-400d-b030-ea5e81169e69"></p>
+    <p id="ee90cf2b-a380-4167-9154-352fbf07051a">
       Le projet est une réalisation d’un jeu vidéo de type speed run (
       <em>
         <strong>Individual Levels</strong>
@@ -243,60 +243,60 @@ const Home: NextPage = () => {
       Typescript pour ce projet pour améliorer et sécuriser la production de
       notre code JavaScript.
     </p>
-    <p id="3bced0fd-5bf2-4a76-a364-d8b18d9d9088" className=""></p>
-    <p id="d16349df-5f59-4e52-a93d-1d57aad5c987" className="">
+    <p id="3bced0fd-5bf2-4a76-a364-d8b18d9d9088"></p>
+    <p id="d16349df-5f59-4e52-a93d-1d57aad5c987">
       Ce jeu ne nécessite pas d’inscription pour donner envie aux joueurs de
       jouer directement.
     </p>
-    <p id="cebed7a0-8443-4e20-8985-07db4e77d127" className="">
+    <p id="cebed7a0-8443-4e20-8985-07db4e77d127">
       Le jeu est destiné aux personnes intéressées par les streameurs et les
       viewers, et les personnes qui aiment les speedrun.
     </p>
-    <p id="0cb26d60-712d-44a1-9dde-e9ca234598d0" className="">
+    <p id="0cb26d60-712d-44a1-9dde-e9ca234598d0">
       Le jeu a pour but de relever des défis avec des personnes pour finir le
       jeu le plus vite possible.
     </p>
-    <p id="28ce784c-17fc-4438-9c21-d5e9dfb3f54c" className="">
+    <p id="28ce784c-17fc-4438-9c21-d5e9dfb3f54c">
       Mise en place d’une Intelligence Artificielle pour les Boss du jeu. Cela
       permettra d’applique une tactique différente selon le comportement du
       Boss.
     </p>
-    <p id="7982cf40-bf57-47db-855c-ea7056bf0f68" className="">
+    <p id="7982cf40-bf57-47db-855c-ea7056bf0f68">
       Mise en place des différentes routes API pour les parties. Les noms d’URL
       seront les noms des rooms auquels les invités pourront rejoindre la
       partie.
     </p>
-    <p id="e3dd0bbd-de99-49cd-a884-ee68c8a759b1" className=""></p>
+    <p id="e3dd0bbd-de99-49cd-a884-ee68c8a759b1"></p>
     <h2
       id="9e11ac98-a058-4872-a75e-267bc25e72e5"
       className="block-color-purple_background"
     >
       <strong>GAMEPLAY</strong>
     </h2>
-    <p id="21c15de5-f041-4f47-a652-87d4ed38c59b" className=""></p>
-    <p id="27672b36-009c-4acb-86c5-9b3e74cf7ae2" className="">
+    <p id="21c15de5-f041-4f47-a652-87d4ed38c59b"></p>
+    <p id="27672b36-009c-4acb-86c5-9b3e74cf7ae2">
       Tous les personnages utilisent la combinaison des touches directionnelle
       pour se déplacer.
     </p>
-    <p id="3e7ed91b-ab59-4462-805e-15fa1c0c4ddd" className="">
+    <p id="3e7ed91b-ab59-4462-805e-15fa1c0c4ddd">
       Sauter en utilisant la barre d’espace
     </p>
-    <p id="32ffbe82-5c88-41d4-8aa8-b11011b41bf1" className="">
+    <p id="32ffbe82-5c88-41d4-8aa8-b11011b41bf1">
       La combinaison des touches AZE permette l’interaction dans le jeu:
     </p>
-    <p id="461a4d58-ebb3-4a20-8616-2ded1a59829c" className="">
+    <p id="461a4d58-ebb3-4a20-8616-2ded1a59829c">
       ‘A’ est l’attaque primaire
     </p>
-    <p id="da8ac642-d3a9-4c88-b6f3-545b701b3de2" className="">
+    <p id="da8ac642-d3a9-4c88-b6f3-545b701b3de2">
       ‘Z’ est l’attaque secondaire qui est la spécialité du personnage
     </p>
-    <p id="5c6f6f68-6479-407a-a63d-2cc9f2675369" className="">
+    <p id="5c6f6f68-6479-407a-a63d-2cc9f2675369">
       ‘E’ est la touche d’action qui permet d’interagir avec les éléments du jeu
     </p>
-    <p id="4bf36200-1f2e-46e5-a0e0-8da9e23ca28c" className="">
+    <p id="4bf36200-1f2e-46e5-a0e0-8da9e23ca28c">
       Les personnages sont des steameurs de la plateforme Twitch, parmi eux :
     </p>
-    <p id="5e53efaf-d1f2-4649-a6e4-1183b2a0ea8a" className=""></p>
+    <p id="5e53efaf-d1f2-4649-a6e4-1183b2a0ea8a"></p>
     <h2 id="f5de2b0f-4c2b-4fdc-a109-4fb1ffd53e6d" className="block-color-teal">
       <span style={{ borderBottom: "0.05em solid" }}>
         Fakhear qui fait des lives principalement de dessin et de jeux vidéo.
@@ -328,7 +328,7 @@ const Home: NextPage = () => {
         L’attaque secondaire : Combo qui consiste à lancer 3 coups
       </li>
     </ul>
-    <p id="cd41d7b9-9661-4508-a3c3-54ebb2992e8a" className=""></p>
+    <p id="cd41d7b9-9661-4508-a3c3-54ebb2992e8a"></p>
     <h2 id="969907b8-9152-4f6e-a46b-92a4b299ba97" className="block-color-brown">
       <span style={{ borderBottom: "0.05em solid" }}>
         Huzounet fait des lives principalement de jeu vidéo Dofus.
@@ -360,7 +360,7 @@ const Home: NextPage = () => {
         à lancer une boule d’énergie. L’ utilisateur devra maintenir la touche.
       </li>
     </ul>
-    <p id="37db817d-64a0-463c-b248-43c6511e0189" className=""></p>
+    <p id="37db817d-64a0-463c-b248-43c6511e0189"></p>
     <h2
       id="2445a212-a8e7-406f-bf26-fb9c5da40a01"
       className="block-color-yellow"
@@ -394,7 +394,7 @@ const Home: NextPage = () => {
         L’attaque secondaire : pose une bombe qui s’active
       </li>
     </ul>
-    <p id="c70513ab-2db0-4e4d-aa52-e4aa919a365c" className=""></p>
+    <p id="c70513ab-2db0-4e4d-aa52-e4aa919a365c"></p>
     <h2
       id="cd37cd78-953f-4ce5-907b-811ae8f14d1f"
       className="block-color-purple"
@@ -430,18 +430,18 @@ const Home: NextPage = () => {
         L’attaque secondaire : soigne un allié le piquant
       </li>
     </ul>
-    <p id="5e5e6208-10a3-423d-af81-8a2626797e78" className=""></p>
+    <p id="5e5e6208-10a3-423d-af81-8a2626797e78"></p>
     <h2
       id="82aac4bd-e36f-48fe-9128-b917f7edc520"
       className="block-color-blue_background"
     >
       <strong>CLASSEMENT</strong>
     </h2>
-    <p id="61e40774-23f7-4c6f-95f1-71c201b24eb7" className="">
+    <p id="61e40774-23f7-4c6f-95f1-71c201b24eb7">
       Mise en place d’un fichier qui contiendra les classements selon le nombre
       de joueurs
     </p>
-    <h1 id="1abb9c8d-59a5-4710-8da7-6b21b98ae769" className="">
+    <h1 id="1abb9c8d-59a5-4710-8da7-6b21b98ae769">
       Présentation de l’équipe{" "}
     </h1>
     <div id="d44b7e3b-4e08-4856-bc61-0837833c5a30" className="column-list">
@@ -489,7 +489,7 @@ const Home: NextPage = () => {
             Pourquoi être seul ou, à l’inverse, ne pas le rester ?
           </strong>
         </em>
-        <p id="cbdde767-961c-4eeb-89f6-bfbb4b49393f" className="">
+        <p id="cbdde767-961c-4eeb-89f6-bfbb4b49393f">
           Nous avons choisi de faire ce projet à deux car nous avons l’habitude
           de collaborer ensemble sur les différents projets menés dernièrement
           qui c’est toujours bien réalisé
@@ -501,7 +501,7 @@ const Home: NextPage = () => {
         <em>
           <strong>Qui va participer activement à notre projet ?</strong>
         </em>
-        <p id="ab45394e-3377-4483-8e49-3763a6d64f02" className="">
+        <p id="ab45394e-3377-4483-8e49-3763a6d64f02">
           Nous allons tous les deux participer activement au projet
         </p>
       </li>
@@ -511,7 +511,7 @@ const Home: NextPage = () => {
         <em>
           <strong>Quelles sont les valeurs communes que vous partagez ?</strong>
         </em>
-        <p id="0b089edc-e6a0-4f15-b029-db06e56c40b5" className="">
+        <p id="0b089edc-e6a0-4f15-b029-db06e56c40b5">
           Les jeux vidéo, et la programmation sont nos valeurs communes
         </p>
       </li>
@@ -521,10 +521,10 @@ const Home: NextPage = () => {
         <em>
           <strong>Quels sont les profils des membres de votre équipe ?</strong>
         </em>
-        <p id="11104995-72ff-46ee-8eee-33f2eeda4c16" className="">
+        <p id="11104995-72ff-46ee-8eee-33f2eeda4c16">
           David à une affinité pour le back-end en programmation et le dessin
         </p>
-        <p id="9e376e3a-bfd5-4754-98a2-9b02d304dfdc" className="">
+        <p id="9e376e3a-bfd5-4754-98a2-9b02d304dfdc">
           Timothée a une affinité par le côté front-end, et est à l’aise avec
           javascript
         </p>
@@ -538,7 +538,7 @@ const Home: NextPage = () => {
             membre ?
           </strong>
         </em>
-        <p id="95bb002d-257e-40ce-af46-e793cb10982b" className="">
+        <p id="95bb002d-257e-40ce-af46-e793cb10982b">
           David est à l’aise en communication, aime dessiner, sociable il va
           facilement vers les gens. Il possède une bonne logique pour résoudre
           les problèmes de codes.
@@ -569,32 +569,32 @@ const Home: NextPage = () => {
         ses besoin à travers des RDV régulier
       </li>
     </ul>
-    <p id="0395bd97-c1f5-44b1-84c6-3fddad17c021" className=""></p>
-    <p id="c9889eaa-3757-4be9-9723-e4274d3f0a22" className=""></p>
-    <p id="3e8ca9e1-471d-48ae-9103-bca76057c0cf" className=""></p>
-    <h1 id="c2b76c15-bbf9-4b37-b130-46a1be300bad" className="">
+    <p id="0395bd97-c1f5-44b1-84c6-3fddad17c021"></p>
+    <p id="c9889eaa-3757-4be9-9723-e4274d3f0a22"></p>
+    <p id="3e8ca9e1-471d-48ae-9103-bca76057c0cf"></p>
+    <h1 id="c2b76c15-bbf9-4b37-b130-46a1be300bad">
       <span style={{ borderBottom: "0.05em solid" }}>
         <strong>Marketing</strong>
       </span>
     </h1>
-    <h1 id="698795b3-afde-4354-8a5a-cc8fc448df35" className="">
+    <h1 id="698795b3-afde-4354-8a5a-cc8fc448df35">
       Analyse de notre cible
     </h1>
     <p id="5ac13d63-76f9-4457-a6e7-7edcf44963a1" className="block-color-teal">
       <strong>Cible</strong> : Les internautes.
     </p>
-    <p id="b736436d-0e5f-4afa-be34-6d14621ca9a8" className=""></p>
+    <p id="b736436d-0e5f-4afa-be34-6d14621ca9a8"></p>
     <p id="0afafe55-11f6-4ff6-bdbb-54ebe7a266b4" className="block-color-red">
       <strong>Problématique :</strong>
     </p>
-    <p id="992f7244-7866-43ee-9eb4-e7903f92253f" className="">
+    <p id="992f7244-7866-43ee-9eb4-e7903f92253f">
       Proximité et interaction directe entre le streamer et les viewers.{" "}
     </p>
-    <p id="05adf587-c005-4be3-a956-b8d2ad28b53a" className="">
+    <p id="05adf587-c005-4be3-a956-b8d2ad28b53a">
       Les viewers ne peuvent que communiquer par écrit et par des commandes qui
       permettent de créer des évènements sur le live.{" "}
     </p>
-    <p id="cb2a2cc6-edde-44bd-852a-25dd4308ee40" className="">
+    <p id="cb2a2cc6-edde-44bd-852a-25dd4308ee40">
       Pour pouvoir jouer avec leurs streamers il faut parfois des conditions :{" "}
     </p>
     <ul id="c15b0c50-135d-4cd6-ba39-60f1e69f2ecc" className="bulleted-list">
@@ -609,10 +609,10 @@ const Home: NextPage = () => {
         Mac , pc qui n’est pas assez performent){" "}
       </li>
     </ul>
-    <p id="a9a79a2c-55de-4e92-a62f-b92cff4a1f2f" className="">
+    <p id="a9a79a2c-55de-4e92-a62f-b92cff4a1f2f">
       {" "}
     </p>
-    <p id="887753c9-acdf-4130-a4dd-beaa9a02fbbd" className=""></p>
+    <p id="887753c9-acdf-4130-a4dd-beaa9a02fbbd"></p>
     <p id="d03114be-138e-4958-8593-0c298cb4244b" className="block-color-blue">
       <strong>Nos Avantages :</strong>
     </p>
@@ -640,7 +640,7 @@ const Home: NextPage = () => {
         Pour les personnes qui font des jeux communautaires en live
       </li>
     </ul>
-    <h1 id="b2a93cf4-214c-4886-88ce-5df09a98e6dc" className="">
+    <h1 id="b2a93cf4-214c-4886-88ce-5df09a98e6dc">
       Analyse de notre concurrence:
     </h1>
     <ul id="24c12db0-2674-4e3c-8223-27c310db8c58" className="bulleted-list">
@@ -744,11 +744,11 @@ const Home: NextPage = () => {
         <strong>Krunker.io</strong>
       </li>
     </ul>
-    <p id="bbc48d90-2dbf-4d32-ab3e-ba8ea8e8d35f" className=""></p>
-    <h1 id="44a3ecd5-ccec-4cec-a435-ac12966991b4" className="">
+    <p id="bbc48d90-2dbf-4d32-ab3e-ba8ea8e8d35f"></p>
+    <h1 id="44a3ecd5-ccec-4cec-a435-ac12966991b4">
       Positionnement par rapport à notre concurrence
     </h1>
-    <p id="e7bdb809-4b0a-4d7c-9ed9-b6e17583da54" className=""></p>
+    <p id="e7bdb809-4b0a-4d7c-9ed9-b6e17583da54"></p>
     <div
       id="51360029-102e-4236-8830-6bb24ed39bac"
       className="collection-content"
@@ -1102,39 +1102,39 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <p id="1c3962ed-7c4d-4fe5-bee8-ee6ca188bb98" className=""></p>
-    <h1 id="8b212dc7-f3e9-4838-8ba1-888fa36ccc64" className="">
+    <p id="1c3962ed-7c4d-4fe5-bee8-ee6ca188bb98"></p>
+    <h1 id="8b212dc7-f3e9-4838-8ba1-888fa36ccc64">
       Promotion / Communication
     </h1>
-    <p id="2964224e-13ed-49e9-b41b-b583a7367c01" className="">
+    <p id="2964224e-13ed-49e9-b41b-b583a7367c01">
       <strong>
         <em>Comment allons-nous faire la promotion de notre solution ?</em>
       </strong>
     </p>
-    <p id="56fff17a-eff0-4a59-a011-4f65d5681132" className=""></p>
-    <p id="20384f06-e193-446d-8221-89a8cf94082a" className="">
+    <p id="56fff17a-eff0-4a59-a011-4f65d5681132"></p>
+    <p id="20384f06-e193-446d-8221-89a8cf94082a">
       Grâce au réseaux sociaux (twitter, Instagram, Facebook)
     </p>
-    <p id="1a68b050-5263-4cae-9420-fd8e4726a0bc" className="">
+    <p id="1a68b050-5263-4cae-9420-fd8e4726a0bc">
       Avec des posts pour dire l’avancement du projet sur twitter avec des
       hasthags #gamedev #gamedevelopment #game #indie #speedrun #2D #streamer
       #phaser #javascript #typescript #multijoueur #boss
     </p>
-    <p id="f5fb0ba4-6af4-4bfc-a105-ea00e8cb945d" className="">
+    <p id="f5fb0ba4-6af4-4bfc-a105-ea00e8cb945d">
       <a href="http://speedrun.com/">Speedrun.com</a> site dédié au speedrun
     </p>
-    <p id="8d3d7c77-2208-4384-8b83-a0e64f432e0c" className="">
+    <p id="8d3d7c77-2208-4384-8b83-a0e64f432e0c">
       Sur instagram aussi des posts avec les mêmes hasthags et rajouter des
       autres developpeurs de jeux indépendants en amis.
     </p>
-    <p id="aad6902f-fd25-4094-b1f0-b79b9b44086f" className="">
+    <p id="aad6902f-fd25-4094-b1f0-b79b9b44086f">
       Youtube pour mettre des vidéos du jeu.
     </p>
-    <p id="d7f0098a-961d-4b2d-8dcb-15f813a7820c" className="">
+    <p id="d7f0098a-961d-4b2d-8dcb-15f813a7820c">
       Ensuite sur Facebook faire une page du jeu et faire connaitre le jeu dans
       des groupes de jeux.
     </p>
-    <p id="335dc9d8-81f5-4884-b2af-9d3df59e2f10" className="">
+    <p id="335dc9d8-81f5-4884-b2af-9d3df59e2f10">
       Amis proches, personnes de la promotion.
     </p>
     <figure id="b7a007f9-cc8b-4b61-a682-1c550602d392" className="image">
@@ -1161,24 +1161,24 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <h1 id="bcd0b38e-32c2-4fde-af8e-b7f31c012d02" className="">
+    <h1 id="bcd0b38e-32c2-4fde-af8e-b7f31c012d02">
       Argumentaire de vente:
     </h1>
-    <p id="2bf28ebd-3fd8-4ffb-bf70-99dd816ba490" className=""></p>
-    <p id="26d6e76e-f893-4c28-a0df-4054e3110318" className="">
+    <p id="2bf28ebd-3fd8-4ffb-bf70-99dd816ba490"></p>
+    <p id="26d6e76e-f893-4c28-a0df-4054e3110318">
       <strong>Problème :</strong>
     </p>
     <div className="indented">
-      <p id="b23202d5-ec35-4a37-b212-c4bf2805085e" className="">
+      <p id="b23202d5-ec35-4a37-b212-c4bf2805085e">
         Aujourd’hui il existe de nombreux internautes à qui la possibilité
         d’interagir, de s’amuser et de participer directement entre les
         streamers et les viewers, se fait ressentir.{" "}
       </p>
-      <p id="5bc3f27c-a38e-483c-a060-5b17b3c1025c" className="">
+      <p id="5bc3f27c-a38e-483c-a060-5b17b3c1025c">
         Les viewers ne peuvent que communiquer ou interagir par écrit et par des
         commandes qui permettent de créer des évènements sur le live.
       </p>
-      <p id="ee8f5b72-f791-4c7e-bb3d-9754326cbeff" className="">
+      <p id="ee8f5b72-f791-4c7e-bb3d-9754326cbeff">
         Pour pouvoir jouer avec leurs streamers il faut parfois des conditions :
       </p>
       <ul id="014ae4e1-eb64-47a6-8bfc-8a318df8ce52" className="bulleted-list">
@@ -1193,19 +1193,19 @@ const Home: NextPage = () => {
           PC qui n’est pas assez performant){" "}
         </li>
       </ul>
-      <p id="2e48e269-161a-4e63-be9e-a4a6656fcdd9" className="">
+      <p id="2e48e269-161a-4e63-be9e-a4a6656fcdd9">
         Nous avons interrogé un certain nombre de streamer/viewers et nous avons
         constaté que l’idée de mettre en place un meilleur rapprochement entre
         streamers et viewers à travers un jeu était une bonne idée.{" "}
       </p>
-      <p id="893c6ce5-0e45-41d7-8766-f3feadd257ef" className=""></p>
+      <p id="893c6ce5-0e45-41d7-8766-f3feadd257ef"></p>
     </div>
     <p />
-    <p id="702b26f0-8316-44c2-815b-aa12995929ed" className="">
+    <p id="702b26f0-8316-44c2-815b-aa12995929ed">
       <strong>Solution</strong>
     </p>
     <div className="indented">
-      <p id="b43824f4-499a-4a98-ba62-f585586480ed" className="">
+      <p id="b43824f4-499a-4a98-ba62-f585586480ed">
         La création d’un jeu multijoueur auquel il serait possible de jouer en
         collaboration autour d’un jeu amusant, challengeant , accessible
         facilement et rapidement à tous , qui ne nécessite pas de prérequis au
@@ -1215,10 +1215,10 @@ const Home: NextPage = () => {
       </p>
     </div>
     <p />
-    <p id="8ae4d6b9-b4c6-47f6-8bb1-4beb67bd5e95" className="">
+    <p id="8ae4d6b9-b4c6-47f6-8bb1-4beb67bd5e95">
       Décrivez les mesures qui doivent être prises pour relever le défi.
     </p>
-    <p id="c2ddba94-e152-42bc-a4d9-54d1a8f9fd28" className="">
+    <p id="c2ddba94-e152-42bc-a4d9-54d1a8f9fd28">
       <strong>Proposition de valeur</strong>
     </p>
     <div className="indented">
@@ -1255,29 +1255,29 @@ const Home: NextPage = () => {
           Pour les personnes qui font des jeux communautaires en live
         </li>
       </ul>
-      <p id="0303dc60-9e5c-418d-98f0-3cabc187ba33" className="">
+      <p id="0303dc60-9e5c-418d-98f0-3cabc187ba33">
         <strong>Faits et données</strong>
       </p>
-      <p id="187b499d-861d-45c3-917d-215e5595846f" className="">
+      <p id="187b499d-861d-45c3-917d-215e5595846f">
         Nous avons eu des réponses à travers un formulaire envoyé aux streamers
         et viewers auquel les réponses était bénéfique pour ce genre d’idée,
         tant qu’il les points qu’il ont le plus souligné son :
       </p>
-      <p id="7a5ccb0c-53eb-4dc6-b01f-114a6be5ea11" className="">
+      <p id="7a5ccb0c-53eb-4dc6-b01f-114a6be5ea11">
         -Pour les personnes qui font des jeux communautaires en live ça peut
         être cool oui
       </p>
-      <p id="5a9c70f9-e055-4d1d-830d-d8a78769b350" className="">
+      <p id="5a9c70f9-e055-4d1d-830d-d8a78769b350">
         -Oui si tu veux un chat avec une ambiance collective et des délires
         communs, ça aide
       </p>
-      <p id="0fd6a8a9-81a2-496a-bcc3-ef775bf30716" className="">
+      <p id="0fd6a8a9-81a2-496a-bcc3-ef775bf30716">
         -Oui pour le jeu
       </p>
     </div>
     <p />
-    <p id="b6361765-1d29-450f-af17-5ebcdb6e8499" className=""></p>
-    <h1 id="a830af3b-2066-4360-9368-ca69b594a7db" className="">
+    <p id="b6361765-1d29-450f-af17-5ebcdb6e8499"></p>
+    <h1 id="a830af3b-2066-4360-9368-ca69b594a7db">
       <span style={{ borderBottom: "0.05em solid" }}>Technologies</span>
     </h1>
     <p id="b5f7782f-9efb-460d-8ba3-36dbcdbe907a" className="block-color-blue">
@@ -1285,7 +1285,7 @@ const Home: NextPage = () => {
       facilement et de manière réaliste les différents aspects : vitesse d’un
       sprite, accélération, gravitation, collision, rebonds …
     </p>
-    <p id="d0604dcd-423f-4aad-82ba-3d2552baca6e" className=""></p>
+    <p id="d0604dcd-423f-4aad-82ba-3d2552baca6e"></p>
     <figure id="9dc230fb-44ce-439c-98f2-fdecd8e19cb6" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/phaser.png">
         <img alt=""
@@ -1294,7 +1294,7 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="75fff087-b493-45fc-80ec-97d1c88f289d" className=""></p>
+    <p id="75fff087-b493-45fc-80ec-97d1c88f289d"></p>
     <p id="3393dae5-7a78-4c24-b255-01f57f7c31bd" className="block-color-yellow">
       <strong>Socket.io et ExpressJS</strong> utilisé par l’intermédiaire de{" "}
       <strong>Colyseus</strong> : Permet d’échanger les données rapidement et
@@ -1325,7 +1325,7 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="c83eda4f-c9ff-49ff-9917-ce00435667c0" className=""></p>
+    <p id="c83eda4f-c9ff-49ff-9917-ce00435667c0"></p>
     <p id="57db8616-48db-485a-a47c-d17d9e84d5b8" className="block-color-teal">
       <strong>NodeJS</strong> coté backend avec Phaser 3 en un affichage sans
       tête (Headless renderer)
@@ -1336,7 +1336,7 @@ const Home: NextPage = () => {
       jeu côté serveur pour fournir des mécanismes amusants et éviter les hacks
       basés sur le client.
     </p>
-    <p id="a6fe5e53-6899-461b-88f9-61a1ff522fe8" className=""></p>
+    <p id="a6fe5e53-6899-461b-88f9-61a1ff522fe8"></p>
     <figure id="d5dd5cd2-7301-4360-a458-90ca04a9fd49" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/nodejs.png">
         <img alt=""
@@ -1345,12 +1345,12 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="79e7149b-3553-40fd-93ca-e5bee4ca7a19" className=""></p>
+    <p id="79e7149b-3553-40fd-93ca-e5bee4ca7a19"></p>
     <p id="703a912d-4aa9-4551-9a27-a20d628bfe3d" className="block-color-orange">
       <strong>HTML5</strong> : accessibilités en ligne sur son navigateur web
       favoris
     </p>
-    <p id="6148a6f3-4394-424a-a070-c1f272489467" className=""></p>
+    <p id="6148a6f3-4394-424a-a070-c1f272489467"></p>
     <figure id="68664acd-f9c4-48e7-a5cc-96d00bc9d7f4" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/HTML5.png">
         <img alt=""
@@ -1359,12 +1359,12 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="9a2d6720-ee5f-4cd7-9b8d-390548977898" className=""></p>
-    <p id="98128061-5e71-4099-966d-b3f4c865336d" className="">
+    <p id="9a2d6720-ee5f-4cd7-9b8d-390548977898"></p>
+    <p id="98128061-5e71-4099-966d-b3f4c865336d">
       <strong>Github </strong>: est un service web d&apos;hébergement et de gestion
       de développement de logiciels
     </p>
-    <p id="b711d02c-31ae-49aa-b55b-aa3fd9f8048c" className=""></p>
+    <p id="b711d02c-31ae-49aa-b55b-aa3fd9f8048c"></p>
     <figure id="4ebcbeba-29b6-4909-93e9-97b62dcad16d" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/github.png">
         <img alt=""
@@ -1373,13 +1373,13 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="ab77e9d1-e079-498c-a444-428162c6e0f8" className=""></p>
-    <p id="b5e2a5f4-657b-42ad-97b1-0d8df2ae9b4d" className=""></p>
+    <p id="ab77e9d1-e079-498c-a444-428162c6e0f8"></p>
+    <p id="b5e2a5f4-657b-42ad-97b1-0d8df2ae9b4d"></p>
     <p id="a352adc5-6896-4892-a59b-84fe6d8d025b" className="block-color-brown">
       <strong>Gimp </strong>: est un logiciel libre d&apos;édition et de création
       d&apos;image
     </p>
-    <p id="5a3ccb94-b3c3-4ce6-bd66-40d673e32ae2" className="">
+    <p id="5a3ccb94-b3c3-4ce6-bd66-40d673e32ae2">
       .
     </p>
     <figure id="82e94f7a-13dd-455e-89de-3d6ec38fce1c" className="image">
@@ -1390,12 +1390,12 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="8e6ecdb8-4e3a-46b1-9699-8a31ed10c72b" className=""></p>
+    <p id="8e6ecdb8-4e3a-46b1-9699-8a31ed10c72b"></p>
     <p id="a6c6c51c-4eba-4c5b-a713-ae067a2d9eb9" className="block-color-blue">
       <strong>Canva : </strong>plate-forme de conception graphique qui crée des
       graphiques, des présentations, des affiches, des documents.
     </p>
-    <p id="4f3ef192-8b41-4901-8343-2486f9732cf4" className=""></p>
+    <p id="4f3ef192-8b41-4901-8343-2486f9732cf4"></p>
     <figure id="92483be3-e8ae-4ec1-8a0b-c00095f2e0ee" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/canva-logo.png">
         <img alt=""
@@ -1404,13 +1404,13 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="9afd02f8-4138-4b8d-bfe8-02765e4fee0b" className=""></p>
-    <p id="7fa97915-cef4-4656-a440-f2b6c483b0c7" className=""></p>
+    <p id="9afd02f8-4138-4b8d-bfe8-02765e4fee0b"></p>
+    <p id="7fa97915-cef4-4656-a440-f2b6c483b0c7"></p>
     <p id="8402a8e2-6d15-43bf-8127-6faac698e706" className="block-color-purple">
       <strong>Figma </strong>: outil de solution en ligne de design d’interfaces
       collaboratif et dynamique,pour une équipe de designers.
     </p>
-    <p id="71d14e9d-56aa-45a3-9049-6941c60ce91a" className=""></p>
+    <p id="71d14e9d-56aa-45a3-9049-6941c60ce91a"></p>
     <figure id="15330b75-1c32-41ac-aa39-0b3b12b9c0e8" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/figma.png">
         <img alt=""
@@ -1419,7 +1419,7 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="74c528b1-5b59-416f-bebd-71bb075098c2" className=""></p>
+    <p id="74c528b1-5b59-416f-bebd-71bb075098c2"></p>
     <p id="14666c28-66d7-4aec-846e-ba3566fb15c7" className="block-color-brown">
       <strong>Notion</strong> : application de prise de notes, de bases de
       données, des tableaux,{" "}
@@ -1427,7 +1427,7 @@ const Home: NextPage = () => {
     <p id="910d830d-6742-4cb9-ba30-154403013db8" className="block-color-brown">
       de wikis, de calendriers et de rappels.
     </p>
-    <p id="e2096ded-73ab-46f9-9e70-afb3cfdf5040" className=""></p>
+    <p id="e2096ded-73ab-46f9-9e70-afb3cfdf5040"></p>
     <figure id="55202b75-a248-4dd1-acd4-d324b6696250" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/notion.png">
         <img alt=""
@@ -1436,10 +1436,10 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <h1 id="4919b423-74d2-4b1c-9b1b-fb682cbf7822" className="">
+    <h1 id="4919b423-74d2-4b1c-9b1b-fb682cbf7822">
       SEO &amp; Responsive
     </h1>
-    <p id="8e8a0717-dcc9-4dcc-b06e-fde9f61fb694" className="">
+    <p id="8e8a0717-dcc9-4dcc-b06e-fde9f61fb694">
       Le site sera hébergé sous le domaine{" "}
       <a href="http://resident-streamer.servegame.com">
         <span style={{ borderBottom: "0.05em solid" }}>
@@ -1447,13 +1447,13 @@ const Home: NextPage = () => {
         </span>
       </a>
     </p>
-    <p id="c66cf25d-b204-4942-b7c0-9e00f01d0ca2" className="">
+    <p id="c66cf25d-b204-4942-b7c0-9e00f01d0ca2">
       Visible depuis la recherche google
     </p>
-    <p id="b19d41d8-6430-4b56-8b3c-3f0f7a0f29a3" className="">
+    <p id="b19d41d8-6430-4b56-8b3c-3f0f7a0f29a3">
       Page qui s’adapte à la largeur de l’écran,
     </p>
-    <p id="8b5abf67-777f-4ac4-ae09-cab426c69cdd" className="">
+    <p id="8b5abf67-777f-4ac4-ae09-cab426c69cdd">
       Un jeu uniquement sur PC
     </p>
     <figure id="9d66ae42-f9af-42c6-8858-a19661bc245a" className="image">
@@ -1464,10 +1464,10 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="64f4438d-a735-429e-801d-4a9be384c3f0" className="">
+    <p id="64f4438d-a735-429e-801d-4a9be384c3f0">
       800x400
     </p>
-    <p id="21c4a299-49d8-4409-8411-7cb2f9f9e3ef" className=""></p>
+    <p id="21c4a299-49d8-4409-8411-7cb2f9f9e3ef"></p>
     <figure id="677792d1-ffae-4b5f-a6d7-3daf5b699ab7" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-17-38.png">
         <img alt=""
@@ -1476,38 +1476,38 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="5a2e4c52-28d0-42be-8908-b5170eb894e8" className="">
+    <p id="5a2e4c52-28d0-42be-8908-b5170eb894e8">
       960x945
     </p>
-    <h1 id="681a1ff6-8062-4b36-9bb1-5abfbfbecf9a" className="">
+    <h1 id="681a1ff6-8062-4b36-9bb1-5abfbfbecf9a">
       API
     </h1>
-    <p id="1411e9a7-88a6-4d26-b96a-d3106b39924a" className="">
+    <p id="1411e9a7-88a6-4d26-b96a-d3106b39924a">
       les Url peuvent être partager pour inviter des gens à la partie
     </p>
-    <p id="cd60bd9e-ccae-4626-9726-404dc23db112" className="">
+    <p id="cd60bd9e-ccae-4626-9726-404dc23db112">
       Il existe deux route principal:
     </p>
-    <p id="110f2b91-312a-47d0-b61d-ea2eb5508c42" className="">
+    <p id="110f2b91-312a-47d0-b61d-ea2eb5508c42">
       <strong>
         <strong>resident-streamer.servegame.com</strong>
       </strong>
     </p>
-    <p id="91c8ef0a-26fd-4e92-aa69-7ea190e30e4d" className="">
+    <p id="91c8ef0a-26fd-4e92-aa69-7ea190e30e4d">
       Acceuil du site avec l’affichage des différents salon disponible
     </p>
-    <p id="d526ffaa-7e5e-4d03-804d-bcd8c292e637" className="">
+    <p id="d526ffaa-7e5e-4d03-804d-bcd8c292e637">
       <strong>
         <strong>resident-streamer.servegame.com/:nom-du-lobby</strong>
       </strong>
     </p>
-    <p id="310bb4ce-877d-445b-a08e-486c301b73f6" className="">
+    <p id="310bb4ce-877d-445b-a08e-486c301b73f6">
       :non-du-lobby et le paramètre qui définit la salle ou le jeu se passe
     </p>
-    <h1 id="3bd05015-ff5d-455e-9de4-d53136fdd7c4" className="">
+    <h1 id="3bd05015-ff5d-455e-9de4-d53136fdd7c4">
       Hébergement
     </h1>
-    <p id="55b3fc4f-436b-4d5f-a423-d1d5e6d440c0" className=""></p>
+    <p id="55b3fc4f-436b-4d5f-a423-d1d5e6d440c0"></p>
     <p id="8d6bea3b-d227-46c2-ac04-ae5a5ff5535f" className="block-color-pink">
       Raspberry pi dans un un premier puis sur un hébergeur si la capacité n’ai
       pas suffisante
@@ -1528,21 +1528,21 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <h1 id="de1ce366-5aa5-4b8b-a744-2df01b7c4f98" className="">
+    <h1 id="de1ce366-5aa5-4b8b-a744-2df01b7c4f98">
       Sécurité
     </h1>
-    <p id="d62e9201-1a41-422b-8d61-dccb1c4217eb" className="">
+    <p id="d62e9201-1a41-422b-8d61-dccb1c4217eb">
       C’est une structure protégée car c’est une architecture client- serveur où
       aucune donnée mise à part les touches appuyées est envoyée au serveur.
     </p>
-    <p id="eeeaab5a-23cc-496b-970b-4c93895e4fee" className=""></p>
-    <h1 id="154b4cc1-ec98-4ea1-876d-c03823c60a7f" className="">
+    <p id="eeeaab5a-23cc-496b-970b-4c93895e4fee"></p>
+    <h1 id="154b4cc1-ec98-4ea1-876d-c03823c60a7f">
       <span style={{ borderBottom: "0.05em solid" }}>Contenu</span>
     </h1>
-    <h2 id="23e79275-67dd-4881-8b17-5565b99c345b" className="">
+    <h2 id="23e79275-67dd-4881-8b17-5565b99c345b">
       Navigation flow
     </h2>
-    <p id="774ecd5c-6345-4081-ad35-9e1d5debb139" className="">
+    <p id="774ecd5c-6345-4081-ad35-9e1d5debb139">
       <a href="https://www.figma.com/file/ct2HsaLSEdY4fVbH895FUX/Untitled?node-id=19%3A3">
         https://www.figma.com/file/ct2HsaLSEdY4fVbH895FUX/Untitled?node-id=19%3A3
       </a>{" "}
@@ -1556,8 +1556,8 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="9ef6ede2-a85d-4299-886c-60a91c0bb799" className=""></p>
-    <h2 id="e646def3-1d28-445a-93d2-41a26cca3dd7" className="">
+    <p id="9ef6ede2-a85d-4299-886c-60a91c0bb799"></p>
+    <h2 id="e646def3-1d28-445a-93d2-41a26cca3dd7">
       Types d’utilisateur
     </h2>
     <ul
@@ -1632,10 +1632,10 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <h1 id="8e2b01e3-a7b3-40d7-9775-e73ff97bf494" className="">
+    <h1 id="8e2b01e3-a7b3-40d7-9775-e73ff97bf494">
       <strong>User Stories</strong>
     </h1>
-    <p id="6e0c4af2-7438-4d4a-a4c7-0a82e6ec26cd" className="">
+    <p id="6e0c4af2-7438-4d4a-a4c7-0a82e6ec26cd">
       Ici, nous retrouverons tous les scénarios dans lesquelles ses différents
       types d’utilisateurs se retrouveront.
     </p>
@@ -1663,47 +1663,47 @@ const Home: NextPage = () => {
         Ou il est possible des utilisateurs peuvent jouer entre eux.
       </li>
     </ul>
-    <p id="294f31cd-b55a-4a7c-86ff-31043f1da8f5" className=""></p>
-    <h2 id="8b65f89b-5779-4e95-92f2-883c858055ea" className="">
+    <p id="294f31cd-b55a-4a7c-86ff-31043f1da8f5"></p>
+    <h2 id="8b65f89b-5779-4e95-92f2-883c858055ea">
       <strong>A long terme</strong>
     </h2>
-    <p id="ba98d6f4-0546-4002-9f88-481007e9d844" className="">
+    <p id="ba98d6f4-0546-4002-9f88-481007e9d844">
       Ajouter :{" "}
     </p>
-    <p id="abe6536d-0c0a-414a-a850-6dcdc9ae7ba4" className="">
+    <p id="abe6536d-0c0a-414a-a850-6dcdc9ae7ba4">
       -nouvelle extension{" "}
     </p>
-    <p id="b252c326-b765-4bf0-b00b-d85102e31038" className="">
+    <p id="b252c326-b765-4bf0-b00b-d85102e31038">
       -map
     </p>
-    <p id="411d1295-8929-4201-b69b-55d5339f5702" className="">
+    <p id="411d1295-8929-4201-b69b-55d5339f5702">
       {" "}
       -nouveaux personnages ( streameurs)
     </p>
-    <p id="d7bf8bf9-e261-4999-827d-2bd863f3c804" className=""></p>
+    <p id="d7bf8bf9-e261-4999-827d-2bd863f3c804"></p>
     <p
       id="addd5fff-cbba-4409-ba84-0de6850762dd"
       className="block-color-blue_background"
     >
       Les joueurs peuvent revenir sur le jeu pour se surpasser.
     </p>
-    <p id="0cf529a0-fe39-4d1a-b98d-9a2d856f9633" className=""></p>
+    <p id="0cf529a0-fe39-4d1a-b98d-9a2d856f9633"></p>
     <p
       id="cb667163-620f-4152-9fc2-23c54607b11b"
       className="block-color-blue_background"
     >
       Relever des défis dans la communauté
     </p>
-    <p id="4610cf5f-a6e5-4f94-b37f-9beeac55e05f" className=""></p>
-    <h1 id="b66ced59-dc28-4874-aa07-a632b4fcc4ca" className="">
+    <p id="4610cf5f-a6e5-4f94-b37f-9beeac55e05f"></p>
+    <h1 id="b66ced59-dc28-4874-aa07-a632b4fcc4ca">
       <span style={{ borderBottom: "0.05em solid" }}>Création</span>
     </h1>
-    <h2 id="f2cd08c5-5969-410e-82ab-e19bb3f52de8" className="">
+    <h2 id="f2cd08c5-5969-410e-82ab-e19bb3f52de8">
       <strong>
         <strong>Charte graphique &amp; Moodboard</strong>
       </strong>
     </h2>
-    <p id="1e6eac7c-c9bc-4374-8bf5-e361c6f833d5" className="">
+    <p id="1e6eac7c-c9bc-4374-8bf5-e361c6f833d5">
       <a href="https://www.canva.com/design/DAE6qpa9Fz0/chqpUK671Y5dY8CFHzRMxA/edit?utm_content=DAE6qpa9Fz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
         https://www.canva.com/design/DAE6qpa9Fz0/chqpUK671Y5dY8CFHzRMxA/edit?utm_content=DAE6qpa9Fz0&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton
       </a>{" "}
@@ -1789,26 +1789,26 @@ const Home: NextPage = () => {
         />
       </a>
     </figure>
-    <p id="774bfbe9-1cf0-4b92-8f12-da11e9c0f7e9" className=""></p>
-    <h2 id="f3640958-2ee0-4fa3-8a97-484fd650f7be" className="">
+    <p id="774bfbe9-1cf0-4b92-8f12-da11e9c0f7e9"></p>
+    <h2 id="f3640958-2ee0-4fa3-8a97-484fd650f7be">
       <strong>
         <strong>Mockups</strong>
       </strong>
     </h2>
-    <p id="b30d3565-0e07-4367-bb02-48b3a1a8f82b" className="">
+    <p id="b30d3565-0e07-4367-bb02-48b3a1a8f82b">
       <a href="https://www.figma.com/file/ct2HsaLSEdY4fVbH895FUX/Untitled?node-id=0%3A1">
         <strong>
           https://www.figma.com/file/ct2HsaLSEdY4fVbH895FUX/Untitled?node-id=0%3A1
         </strong>
       </a>
     </p>
-    <p id="abaf2790-ebea-414d-aca7-81d06e69cad1" className=""></p>
-    <h1 id="773ee70b-1eff-464c-b0c8-db469e8992b0" className="">
+    <p id="abaf2790-ebea-414d-aca7-81d06e69cad1"></p>
+    <h1 id="773ee70b-1eff-464c-b0c8-db469e8992b0">
       <span style={{ borderBottom: "0.05em solid" }}>
         <strong>Contraintes et Temps</strong>
       </span>
     </h1>
-    <h1 id="241c3b94-7472-4702-b0ae-39677acb0ec1" className="">
+    <h1 id="241c3b94-7472-4702-b0ae-39677acb0ec1">
       <strong>
         <strong>Charge horaires estimée</strong>
       </strong>
@@ -1986,7 +1986,7 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <h1 id="00d8289c-35cb-4134-98ad-fac19cbdf32c" className="">
+    <h1 id="00d8289c-35cb-4134-98ad-fac19cbdf32c">
       <strong>
         <strong>Découpage des tâches</strong>
       </strong>
@@ -2131,7 +2131,7 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <p id="dcd74f1e-06f5-4d4e-af78-db915be47367" className="">
+    <p id="dcd74f1e-06f5-4d4e-af78-db915be47367">
       <strong>Estimation charge </strong>:
     </p>
     <div
@@ -2540,47 +2540,47 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <h1 id="a735610d-fb6d-41b8-9a52-274b8565c83d" className="">
+    <h1 id="a735610d-fb6d-41b8-9a52-274b8565c83d">
       Timeline / Milestones
     </h1>
-    <p id="0b7db685-01d9-427e-9c5d-7dd69008949b" className="">
+    <p id="0b7db685-01d9-427e-9c5d-7dd69008949b">
       <a href="https://github.com/pytoncraft2/jeu-du-drapeau-phaser3/releases">
         https://github.com/pytoncraft2/jeu-du-drapeau-phaser3/releases
       </a>
     </p>
-    <p id="9b62d583-9221-48c7-8837-ccb49a698666" className="">
+    <p id="9b62d583-9221-48c7-8837-ccb49a698666">
       <strong>11/02/22</strong> Lancement projet
     </p>
-    <p id="8701e39f-f72a-4328-8669-6bd2de079ee0" className="">
+    <p id="8701e39f-f72a-4328-8669-6bd2de079ee0">
       <strong>11/03/22</strong> Milestone Prototype :
     </p>
     <div className="indented">
-      <p id="e0b31ceb-8a8e-4e46-a414-7979f7c24fe7" className="">
+      <p id="e0b31ceb-8a8e-4e46-a414-7979f7c24fe7">
         Affichez l’interface des touches, scores, le temps, création d’une
         partie, map
       </p>
     </div>
     <p />
-    <p id="feb77a97-8a65-4c8a-abca-2d58733beb74" className="">
+    <p id="feb77a97-8a65-4c8a-abca-2d58733beb74">
       <strong>22/07/22 </strong>Milestone Prototype jouable :{" "}
     </p>
-    <p id="07307f88-6962-4711-9e88-47ba966a5894" className="">
+    <p id="07307f88-6962-4711-9e88-47ba966a5894">
       gameplay fonctionnelles pour les personnages Fakhear,Huzounet, Akhizonah,
       Osmosiscoop
     </p>
-    <p id="e54d3955-35cb-4c11-938e-148b949a92bb" className="">
+    <p id="e54d3955-35cb-4c11-938e-148b949a92bb">
       IA Boss fonctionnelle.
     </p>
-    <p id="4402a5ef-21a5-4404-a8e5-49f26c81d376" className="">
+    <p id="4402a5ef-21a5-4404-a8e5-49f26c81d376">
       <strong>23/07/22</strong> Milestone Alpha : Alpha testable sur Raspberry
       pi, fonctionnelle
     </p>
-    <p id="a65e6dbb-59b3-4463-9461-a7b2f5acfee8" className="">
+    <p id="a65e6dbb-59b3-4463-9461-a7b2f5acfee8">
       <strong>19/11/22</strong> Milestone Final : Version stable et
       fonctionnelle
     </p>
-    <p id="5869205b-5e12-49de-9aaa-dcab716bdf69" className=""></p>
-    <p id="395a8613-07e1-4854-a95c-7064dbec5ff4" className="">
+    <p id="5869205b-5e12-49de-9aaa-dcab716bdf69"></p>
+    <p id="395a8613-07e1-4854-a95c-7064dbec5ff4">
       Planning prévisionnel :
     </p>
     <div
@@ -2687,23 +2687,23 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <h1 id="4ab2cdfb-6cca-4802-bdbd-699868aeffa5" className="">
+    <h1 id="4ab2cdfb-6cca-4802-bdbd-699868aeffa5">
       Contraintes organisationnelles
     </h1>
-    <p id="3da6afe1-7ad4-4902-9a32-7ac955bebd9c" className=""></p>
-    <p id="06010e76-3ea6-4695-9f50-bff87675e69a" className="">
+    <p id="3da6afe1-7ad4-4902-9a32-7ac955bebd9c"></p>
+    <p id="06010e76-3ea6-4695-9f50-bff87675e69a">
       <span style={{ borderBottom: "0.05em solid" }}>Contraintes de David</span>{" "}
       : Impossible de travailler le soir pour mardi et mercredi car il doit se
       lever tôt pour se déplacer de nancy à strasbourg (entreprise) puis le
       retour.
     </p>
-    <p id="45901e8a-9556-478f-8d68-9290e22b214c" className=""></p>
-    <p id="b7104294-1ba1-4857-b509-d86fe225c7fe" className="">
+    <p id="45901e8a-9556-478f-8d68-9290e22b214c"></p>
+    <p id="b7104294-1ba1-4857-b509-d86fe225c7fe">
       <span style={{ borderBottom: "0.05em solid" }}>Contraintes de Tim</span> :
       Lundi soir il y a une réunion avec l’entreprise.
     </p>
-    <p id="871efddf-6bc8-41c1-bdce-8232c31f95e9" className=""></p>
-    <p id="fcc2fd8b-b19d-4f20-a2eb-eea2814cedb1" className=""></p>
+    <p id="871efddf-6bc8-41c1-bdce-8232c31f95e9"></p>
+    <p id="fcc2fd8b-b19d-4f20-a2eb-eea2814cedb1"></p>
   </div>
 </article>
 
