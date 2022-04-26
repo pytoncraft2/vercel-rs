@@ -450,36 +450,26 @@ const Home: NextPage = () => {
         style={{ width: "50.00000000000002%" }}
         className="column"
       >
-        <figure id="080cb1fb-e96b-404e-9b4d-136f3f9f5bae" className="image">
           <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/timothee.hennequinepitech.eu.jpg">
             <img alt=""
               style={{ width: 120 }}
               src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/timothee.hennequinepitech.eu.jpg"
             />
           </a>
-          <figcaption>
-            {" "}
             Timothée Hennequin (chef de projet &amp; développeur)
-          </figcaption>
-        </figure>
       </div>
       <div
         id="83447167-c327-497b-a950-8f411985aeff"
         style={{ width: "50%" }}
         className="column"
       >
-        <figure id="7a5a72fb-d1ea-4852-b652-307c3df612d6" className="image">
           <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/MicrosoftTeams-image.png">
             <img alt=""
               style={{ width: 144 }}
               src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/MicrosoftTeams-image.png"
             />
           </a>
-          <figcaption>
-            {" "}
             David Bui (Character designer &amp; développeur)
-          </figcaption>
-        </figure>
       </div>
     </div>
     <ul id="bcbb0471-565f-4833-abd7-efe623b420f9" className="bulleted-list">
