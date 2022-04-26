@@ -80,7 +80,6 @@ figure {
 }
 
 figcaption {
-	opacity: 0.5;
 	font-size: 85%;
 	margin-top: 0.5em;
 }
@@ -167,7 +166,7 @@ img {
 table,
 th,
 td {
-	border: 1px solid rgba(55, 53, 47, 0.09);
+	border: 1px solid #ffc004;
 	border-collapse: collapse;
 }
 
@@ -533,8 +532,8 @@ blockquote {
 	fill: rgba(193, 76, 138, 1);
 }
 .highlight-red {
-	color: rgba(212, 76, 71, 1);
-	fill: rgba(212, 76, 71, 1);
+	color: #300201;
+	fill: #300201;
 }
 .highlight-gray_background {
 	background: rgba(241, 241, 239, 1);
@@ -572,24 +571,24 @@ blockquote {
 	fill: rgba(120, 119, 116, 1);
 }
 .block-color-brown {
-	color: rgba(159, 107, 83, 1);
-	fill: rgba(159, 107, 83, 1);
+	color: #401400;
+	fill: #401400;
 }
 .block-color-orange {
 	color: rgba(217, 115, 13, 1);
 	fill: rgba(217, 115, 13, 1);
 }
 .block-color-yellow {
-	color: rgba(203, 145, 47, 1);
-	fill: rgba(203, 145, 47, 1);
+	color: #201401;
+	fill: #201401;
 }
 .block-color-teal {
 	color: rgba(68, 131, 97, 1);
 	fill: rgba(68, 131, 97, 1);
 }
 .block-color-blue {
-	color: rgba(51, 126, 169, 1);
-	fill: rgba(51, 126, 169, 1);
+	color: #012e48;
+	fill: #012e48;
 }
 .block-color-purple {
 	color: rgba(144, 101, 176, 1);
