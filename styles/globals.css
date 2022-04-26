@@ -185,7 +185,7 @@ td {
 }
 
 th {
-	color: rgba(55, 53, 47, 0.6);
+	color: #ffbf01;
 }
 
 ol,
@@ -528,8 +528,8 @@ blockquote {
 	fill: rgba(144, 101, 176, 1);
 }
 .highlight-pink {
-	color: rgba(193, 76, 138, 1);
-	fill: rgba(193, 76, 138, 1);
+	color: #ff0087;
+	fill: #ff0087;
 }
 .highlight-red {
 	color: #300201;
@@ -554,10 +554,10 @@ blockquote {
 	background: rgba(231, 243, 248, 1);
 }
 .highlight-purple_background {
-	background: rgba(244, 240, 247, 0.8);
+	background: rgba(244, 240, 247, 1);
 }
 .highlight-pink_background {
-	background: rgba(249, 238, 243, 0.8);
+	background: rgba(249, 238, 243, 1);
 }
 .highlight-red_background {
 	background: rgba(253, 235, 236, 1);
@@ -575,8 +575,8 @@ blockquote {
 	fill: #401400;
 }
 .block-color-orange {
-	color: rgba(217, 115, 13, 1);
-	fill: rgba(217, 115, 13, 1);
+	color: #ff7f00;
+	fill: #ff7f00;
 }
 .block-color-yellow {
 	color: #201401;
@@ -591,8 +591,8 @@ blockquote {
 	fill: #012e48;
 }
 .block-color-purple {
-	color: rgba(144, 101, 176, 1);
-	fill: rgba(144, 101, 176, 1);
+	color: #9100fc;
+	fill: #9100fc;
 }
 .block-color-pink {
 	color: rgba(193, 76, 138, 1);
