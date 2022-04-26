@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <title>Resident streamer - Jeu multijoueur en ligne</title>
         <meta name="description" content="Jeu Resident streamer - Jeu multijoueur en ligne de 1 à 4 joueurs, combattez le plus rapidement possible les 5 boss ! Techologies: Phaser 3, Colyseus - A speedrun game free with streamer characters available online" />
         <meta name="theme-color" content="#001d36" />
-        <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
