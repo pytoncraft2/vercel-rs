@@ -1695,10 +1695,7 @@ const Home: NextPage = () => {
       </strong>
     </h2>
     <p id="1e6eac7c-c9bc-4374-8bf5-e361c6f833d5">
-      <a href="https://www.canva.com/design/DAE6qpa9Fz0/chqpUK671Y5dY8CFHzRMxA/edit?utm_content=DAE6qpa9Fz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-        https://www.canva.com/design/DAE6qpa9Fz0/chqpUK671Y5dY8CFHzRMxA/edit?utm_content=DAE6qpa9Fz0&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton
-      </a>{" "}
-      (canva)
+    canva
     </p>
     <figure id="57314035-8b92-46de-9812-2acd90ad0bc8" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/1.png">
