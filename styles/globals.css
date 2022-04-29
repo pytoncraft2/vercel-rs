@@ -24,6 +24,7 @@ a,
 a.visited {
 	color: inherit;
 	text-decoration: underline;
+  overflow-wrap: break-word;
 }
 
 .pdf-relative-link-path {
@@ -119,6 +120,7 @@ img {
 
 .collection-content {
 	font-size: 0.875rem;
+  overflow: scroll;
 }
 
 .column-list {

@@ -2675,9 +2675,9 @@ const Home: NextPage = () => {
         </tbody>
       </table>
     </div>
-    <h1 id="4ab2cdfb-6cca-4802-bdbd-699868aeffa5">
+    <h2 id="4ab2cdfb-6cca-4802-bdbd-699868aeffa5">
       Contraintes organisationnelles
-    </h1>
+    </h2>
     <p id="3da6afe1-7ad4-4902-9a32-7ac955bebd9c"></p>
     <p id="06010e76-3ea6-4695-9f50-bff87675e69a">
       <span style={{ borderBottom: "0.05em solid" }}>Contraintes de David</span>{" "}
