@@ -452,9 +452,11 @@ const Home: NextPage = () => {
         className="column"
       >
           <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/timothee.hennequinepitech.eu.jpg">
-            <img alt=""
-              style={{ width: 120 }}
-              src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/timothee.hennequinepitech.eu.jpg"
+            <Image
+            src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/timothee.hennequinepitech.eu.jpg"
+            alt="Picture of the author"
+            width={500}
+            height={500}
             />
           </a>
             Timothée Hennequin (chef de projet &amp; développeur)
@@ -465,10 +467,12 @@ const Home: NextPage = () => {
         className="column"
       >
           <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/MicrosoftTeams-image.png">
-            <img alt=""
-              style={{ width: 144 }}
-              src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/MicrosoftTeams-image.png"
-            />
+          <Image
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/MicrosoftTeams-image.png"
+          alt="Picture of the author"
+          width={500}
+          height={500}
+          />
           </a>
             David Bui (Character designer &amp; développeur)
       </div>
@@ -1130,26 +1134,32 @@ const Home: NextPage = () => {
     </p>
     <figure id="b7a007f9-cc8b-4b61-a682-1c550602d392" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/facebook.png">
-        <img alt=""
-          style={{ width: 1848 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/facebook.png"
-        />
+      <Image
+      src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/facebook.png"
+      alt="Picture of the author"
+      width={500}
+      height={500}
+      />
       </a>
     </figure>
     <figure id="f7c4598c-ae58-4623-9bb2-913776e210b7" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-05_12-07-15.png">
-        <img alt=""
-          style={{ width: 1849 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-05_12-07-15.png"
-        />
+      <Image
+      src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-05_12-07-15.png"
+      alt="Picture of the author"
+      width={500}
+      height={500}
+      />
       </a>
     </figure>
     <figure id="9013eca7-c399-4415-b8b4-3b7b2936f367" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/277934342_966629650691787_469874799786315837_n.jpg">
-        <img alt=""
-          style={{ width: 1080 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/277934342_966629650691787_469874799786315837_n.jpg"
-        />
+      <Image
+      src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/277934342_966629650691787_469874799786315837_n.jpg"
+      alt="Picture of the author"
+      width={500}
+      height={500}
+      />
       </a>
     </figure>
     <h1 id="bcd0b38e-32c2-4fde-af8e-b7f31c012d02">
@@ -1279,9 +1289,11 @@ const Home: NextPage = () => {
     <p id="d0604dcd-423f-4aad-82ba-3d2552baca6e"></p>
     <figure id="9dc230fb-44ce-439c-98f2-fdecd8e19cb6" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/phaser.png">
-        <img alt=""
-          style={{ width: 288 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/phaser.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/phaser.png"
         />
       </a>
     </figure>
@@ -1294,25 +1306,31 @@ const Home: NextPage = () => {
     </p>
     <figure id="efa9b3a6-8b25-447f-b48f-c484b45339dd" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/socket.jpg">
-        <img alt=""
-          style={{ width: 384 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/socket.jpg"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/socket.jpg"
         />
       </a>
     </figure>
     <figure id="aa72501f-1660-4e1c-8a3b-d12bed663141" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/colypses.png">
-        <img alt=""
-          style={{ width: 303 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/colypses.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/colypses.png"
         />
       </a>
     </figure>
     <figure id="81e619b1-d408-4a77-848b-f490593a5ec5" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/expressjs.png">
-        <img alt=""
-          style={{ width: 384 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/expressjs.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/expressjs.png"
         />
       </a>
     </figure>
@@ -1330,9 +1348,11 @@ const Home: NextPage = () => {
     <p id="a6fe5e53-6899-461b-88f9-61a1ff522fe8"></p>
     <figure id="d5dd5cd2-7301-4360-a458-90ca04a9fd49" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/nodejs.png">
-        <img alt=""
-          style={{ width: 384 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/nodejs.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/nodejs.png"
         />
       </a>
     </figure>
@@ -1344,9 +1364,11 @@ const Home: NextPage = () => {
     <p id="6148a6f3-4394-424a-a070-c1f272489467"></p>
     <figure id="68664acd-f9c4-48e7-a5cc-96d00bc9d7f4" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/HTML5.png">
-        <img alt=""
-          style={{ width: 192 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/HTML5.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/HTML5.png"
         />
       </a>
     </figure>
@@ -1358,9 +1380,11 @@ const Home: NextPage = () => {
     <p id="b711d02c-31ae-49aa-b55b-aa3fd9f8048c"></p>
     <figure id="4ebcbeba-29b6-4909-93e9-97b62dcad16d" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/github.png">
-        <img alt=""
-          style={{ width: 288 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/github.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/github.png"
         />
       </a>
     </figure>
@@ -1375,9 +1399,11 @@ const Home: NextPage = () => {
     </p>
     <figure id="82e94f7a-13dd-455e-89de-3d6ec38fce1c" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/gimp.png">
-        <img alt=""
-          style={{ width: 288 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/gimp.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/gimp.png"
         />
       </a>
     </figure>
@@ -1389,9 +1415,11 @@ const Home: NextPage = () => {
     <p id="4f3ef192-8b41-4901-8343-2486f9732cf4"></p>
     <figure id="92483be3-e8ae-4ec1-8a0b-c00095f2e0ee" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/canva-logo.png">
-        <img alt=""
-          style={{ width: 400 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/canva-logo.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/canva-logo.png"
         />
       </a>
     </figure>
@@ -1404,9 +1432,11 @@ const Home: NextPage = () => {
     <p id="71d14e9d-56aa-45a3-9049-6941c60ce91a"></p>
     <figure id="15330b75-1c32-41ac-aa39-0b3b12b9c0e8" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/figma.png">
-        <img alt=""
-          style={{ width: 480 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/figma.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/figma.png"
         />
       </a>
     </figure>
@@ -1421,9 +1451,11 @@ const Home: NextPage = () => {
     <p id="e2096ded-73ab-46f9-9e70-afb3cfdf5040"></p>
     <figure id="55202b75-a248-4dd1-acd4-d324b6696250" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/notion.png">
-        <img alt=""
-          style={{ width: 512 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/notion.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/notion.png"
         />
       </a>
     </figure>
@@ -1449,9 +1481,11 @@ const Home: NextPage = () => {
     </p>
     <figure id="9d66ae42-f9af-42c6-8858-a19661bc245a" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-14-27.png">
-        <img alt=""
-          style={{ width: 856 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-14-27.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-14-27.png"
         />
       </a>
     </figure>
@@ -1461,9 +1495,11 @@ const Home: NextPage = () => {
     <p id="21c4a299-49d8-4409-8411-7cb2f9f9e3ef"></p>
     <figure id="677792d1-ffae-4b5f-a6d7-3daf5b699ab7" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-17-38.png">
-        <img alt=""
-          style={{ width: 1112 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-17-38.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Capture_dcran_du_2022-04-07_11-17-38.png"
         />
       </a>
     </figure>
@@ -1505,17 +1541,21 @@ const Home: NextPage = () => {
     </p>
     <figure id="f87f5c53-2e79-4eda-846b-1e0b7e225418" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/image.jpg">
-        <img alt=""
-          style={{ width: 1736 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/image.jpg"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/image.jpg"
         />
       </a>
     </figure>
     <figure id="98cdf6e7-80f2-4679-84b4-a8589c808b39" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/raspberry-pi-logo.jpg">
-        <img alt=""
-          style={{ width: 900 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/raspberry-pi-logo.jpg"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/raspberry-pi-logo.jpg"
         />
       </a>
     </figure>
@@ -1541,9 +1581,11 @@ const Home: NextPage = () => {
     </p>
     <figure id="7255ec03-9042-4809-a4a7-074a217d0586" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/navigation_flow.png">
-        <img alt=""
-          style={{ width: 1324 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/navigation_flow.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/navigation_flow.png"
         />
       </a>
     </figure>
@@ -1617,9 +1659,11 @@ const Home: NextPage = () => {
     </ul>
     <figure id="b71f4ba6-88d4-4d1c-90a0-d8233b7cc561" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-07_10-19-54.png">
-        <img alt=""
-          style={{ width: 732 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-07_10-19-54.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/Screenshot_from_2022-04-07_10-19-54.png"
         />
       </a>
     </figure>
@@ -1699,81 +1743,101 @@ const Home: NextPage = () => {
     </p>
     <figure id="57314035-8b92-46de-9812-2acd90ad0bc8" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/1.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/1.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/1.png"
         />
       </a>
     </figure>
     <figure id="a6f34bff-cffa-4c29-88b3-d0036d074b2e" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/2.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/2.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/2.png"
         />
       </a>
     </figure>
     <figure id="b4b34749-f57d-438f-a04c-028c4debff65" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/3.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/3.png"
+        <Image
+          alt="cahier des charges"
+          width={500}
+          height={500}
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/3.png"
         />
       </a>
     </figure>
     <figure id="94c93791-f2e6-4707-bcee-4ed4a50cd34a" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/4.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/4.png"
+        <Image
+          alt="cahier des charges cinq"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/4.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="3dc9a74a-ae27-41ac-a7d5-f9a2f5b9c763" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/5.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/5.png"
+        <Image
+          alt="cahier des charges quatre"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/5.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="3679ad26-731a-4ff9-ab31-ae4d898aa262" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/6.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/6.png"
+        <Image
+          alt="cahier des charges"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/6.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="f74028cf-25d2-4f36-8003-d7aef69abda1" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/7.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/7.png"
+        <Image
+          alt="cahier des charges"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/7.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="c1e9fb76-2735-4a13-b40d-ab6e810f2751" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/8.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/8.png"
+        <Image
+          alt="cahier des charges trois"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/8.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="d85bdee7-c700-4a57-89a6-227b2a399b22" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/9.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/9.png"
+        <Image
+          alt="cahier des charges deux"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/9.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
     <figure id="706779e0-2136-4d14-a552-18500905895b" className="image">
       <a href="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/10.png">
-        <img alt=""
-          style={{ width: 500 }}
-          src="Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/10.png"
+        <Image
+          alt="cahier des charges un"
+          src="/Cahier%20des%20charges%20080cb1fbe96b404e9b4d136f3f9f5bae/10.png"
+          width={500}
+          height={500}
         />
       </a>
     </figure>
